@@ -1,0 +1,6 @@
+SECRET_KEY = "you-will-never-guess"
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+SQLAlCHEMY_ECHO = False
+DEBUG = True
+FLASK_ENV=development
+FLASK_APP=app
